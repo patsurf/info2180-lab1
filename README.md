@@ -1,2 +1,3 @@
 # info2180-lab1
-For web dev labs and projects.
+This is Lab 1 For Patricia Surf
+
